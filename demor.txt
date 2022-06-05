@@ -1,4 +1,8 @@
 dfsfdfsdfsdf
 dfsdfj
 dfsdf
+<<<<<<< HEAD
 master written again master
+=======
+hey ttheoe ddfskdf4r34
+>>>>>>> nelson
