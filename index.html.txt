@@ -1,11 +1,4 @@
-{{!-- 
 
-        <div class="row d-flex justify-content-around ms-0 me-0 mb-3 mt-3 p-0 rounded"  style="background-color: rgb(119, 73, 172);">
-            <div class=" mt-3 shadow-lg p-3 mb-5 bg-white rounded" style="background-color: rgb(179, 197, 218); height: 100px; width: 100px; border-radius: 5px;"><i class="fa-solid fa-align-justify"></i><h6>Total Orders : {{dashData.totalOrder}}</h6></div> 
-            <div class=" mt-3 shadow-lg p-3 mb-5 bg-white rounded" style="background-color: rgb(179, 197, 218); height: 100px; width: 100px; border-radius: 5px;"><i class="fa-solid fa-truck"></i><br><h6>Total Delivery : {{dashData.totalDelivery}}</h6></div>
-            <div class=" mt-3 shadow-lg p-3 mb-5 bg-white rounded" style="background-color: rgb(179, 197, 218); height: 100px; width: 100px; border-radius: 5px;"><i class="fa-solid fa-users"></i><br><h6>Total Users : {{dashData.totalUsers}}</h6></div>
-            <div class=" mt-3 shadow-lg p-3 mb-5 bg-white rounded" style="background-color: rgb(179, 197, 218); height: 100px; width: 100px; border-radius: 5px;"><i class="fa-solid fa-cash-register"></i><h6>Total Revenue : {{dashData.totalRevenue}}</h6></div>
-        </div>
         <input type="text" name="placed" id="placed" hidden value="{{dashData.placedOrder}}">
         <input type="text" name="pending" id="pending" hidden value="{{dashData.pendingOrder}}">
         <input type="text" name="orderpro" id="orderpro" hidden value="{{dashData.orderUnderProcessing}}">
